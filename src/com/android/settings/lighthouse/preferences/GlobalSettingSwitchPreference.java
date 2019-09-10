@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.arrow.preferences;
+package com.android.settings.lighthouse.preferences;
 
 import android.content.Context;
 import android.provider.Settings;
